@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="valueTextSize" format="dimension" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="unitsTextSize" format="dimension" />
+    </declare-styleable>
+</resources>

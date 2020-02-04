@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+
+    <color name="colorPrimary">#344ACC</color>
+    <color name="colorPrimaryDark">#344ACC</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDarker">#d3c498</color>
+    <color name="colorLighter">#000000</color>
+    <color name="colorFilled">#fdfdfd</color>
+    <color name="borderColor">#e4e4e4</color>
+    <color name="error">#e68183</color>
+    <color name="sub_text">#006600</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="text_color">#06539d</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="nav_bottom_color_selected">#548bf7</color>
+
+    <color name="nav_bottom_color_unselected">#ababab</color>
+
+    <color name="colorTabIndicator">#acacac</color>
+
+    <color name="tabtextcolor">#0f5092</color>
+
+    <color name="colorWorkFromHome">#084b92</color>
+    <color name="colorAttenDetail">#148347</color>
+</resources>
